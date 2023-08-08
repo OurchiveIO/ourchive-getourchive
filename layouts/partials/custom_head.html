@@ -1,0 +1,79 @@
+<!-- A partial to be overwritten by the user.
+     Its content will appear before the closing </head>-tag -->
+
+
+<!-- Custom CSS via inline styles
+     You may use this template to add custom CSS to your site like so: -->
+<style>
+:root {
+    /* see variables.scss for more variables*/
+
+    --cover-text-color: #0B0C10!important;
+    --highlight: #FF9F1C;
+    --highlight-contrast: var(--cover-text-color);
+    /*iverse colors used for :hover */
+    --highlight-inverse: var(--cover-text-color);
+    --highlight-inverse-contrast: white;
+
+    /* === sticky top/left navigation menus === */
+    --sticky-menu-text-color: #FF9F1C;
+
+
+    /* === Alternating content (post) sections  === */
+    /* Light section - text color */
+    --section-light-text-color: #3a4145!important;
+    /* Light section - background color */
+    --section-light-bg-color: #F5F5F5!important;
+
+    /* Dark section - text color */
+    --section-dark-text-color: var(--section-light-text-color);
+    /* Dark section - background color */
+    --section-dark-bg-color: #CBF3F0!important;
+
+    /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
+    --section-uni-quote: grey;
+    /* Light&Dark section `code` a bit darker than 'Light section - background color' */
+    --section-uni-code-bg-color: #e0ded7;
+
+
+    /* === Footer === */
+    --footer-color-background: #0B0C10;
+    --footer-color: #CBF3F0;
+    
+}
+</style>
+
+
+<!-- Custom CSS via "custom.css"-file
+     If you would rather place your custom CSS into
+     a separate file, create a "custom.css" in your
+     local "static/css"-directory. Then add a <link>-tag
+     referencing your "custom.css" like so: -->
+
+<!-- <link rel="stylesheet" href='{{ "css/custom.css" | absURL }}'> -->
+
+<!-- Custom CSS: Color Codes
+     You may checkout https://htmlcolorcodes.com/ to get those
+     weird color codes (like "#22343A") ;-). -->
+
+<!-- Custom link-tags for different icons
+     Generated via https://favicon.io/favicon-generator/ -->
+
+
+<link
+  rel="apple-touch-icon"
+  sizes="180x180"
+  href="{{ "images/apple-touch-icon.png" | absURL }}"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="32x32"
+  href="{{ "images/favicon.png" | absURL }}"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="16x16"
+  href="{{ "images/favicon.png" | absURL }}"
+/>
