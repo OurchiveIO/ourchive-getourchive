@@ -6,6 +6,6 @@ weight: 3
 header_menu: true
 ---
 
-Ourchive is currently in closed beta stage. You can access the beta site at [getourchive.io](https://getourchive.io).
+Ourchive is currently in closed beta stage. You can access the beta site at [ourchive.io](https://ourchive.io).
 
-If you are interested in helping test, you can [reach out to us](tk).
+If you are interested in helping test, you can [subscribe to our mailing list](https://docs.getourchive.io/), where we'll send out calls for more testers.
