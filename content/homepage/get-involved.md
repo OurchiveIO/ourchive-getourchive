@@ -4,8 +4,12 @@ weight: 4
 header_menu: true
 ---
 
-Prior to release of MVP, our attention is focused on collecting feedback from our closed beta testers. We encourage you to check out our documentation; if you're interested in helping test or build, feel free to ping us on Mastodon.
+We are always looking for contributors. You can:
 
+- Contribute a pull request for any issue you encounter on our [repo](https://github.com/c-e-p/ourchive)
+- Ping us on [Mastodon](https://federatedfandom.net/@ourchive) or reach us at <getourchive@gmail.com> to join our Discord community
+- Follow our progress and contribute to open tasks on our [task tracking software](https://tree.taiga.io/project/c-e-p-v06/kanban) (note: documentation is a work in progress. Ping us at the above contact links and we will elaborate on any story you're interested in picking up).
+
+Useful links:
 - [Developer Documentation](https://developer.getourchive.io)
 - [Admin & User Documentation](https://docs.getourchive.io)
-- [Mastodon](https://federatedfandom.net/@ourchive)
