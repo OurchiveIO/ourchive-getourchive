@@ -38,7 +38,7 @@ title = "Ourchive - Archive Software for Fans"
     title = "Ourchive - Archive Software for Fans"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "Links and information about Ourchive, a Python-based online archive software for fans."
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
